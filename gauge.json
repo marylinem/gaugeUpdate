@@ -4,7 +4,7 @@
 	"name": "Demo Gauge",
 	"description": "A gauge demo",
 	"newInstancePrefix": "Gauge",
-	"icon": "https://marylinem.github.io/CustomWidgets/gauge/icon.png",
+	"icon": "https://marylinem.github.io/gaugeUpdate/gauge/icon.png",
 	"vendor": "Demo",
 	"eula": "EULA",
 	"license": "1.0",
