@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://raw.githubusercontent.com/marylinem/CustomWidgets/main/gauge/box.js",
+			"url": "https://marylinem.github.io/gaugeUpdate/gauge/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://marylinem.github.io/CustomWidgets/gauge/box_sps.js",
+			"url": "https://marylinem.github.io/gaugeUpdate/gauge/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "hbps",
+			"url": "https://marylinem.github.io/gaugeUpdate/gauge/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
